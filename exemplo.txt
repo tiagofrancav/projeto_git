@@ -1,4 +1,8 @@
 1. Ferramentaa de Trabalho
-Vscode
-Frameworks
-IDE
+    Vscode
+    Frameworks
+    IDE
+2. Linguagens de programação 
+    Javascript
+    Python
+    Ruby
